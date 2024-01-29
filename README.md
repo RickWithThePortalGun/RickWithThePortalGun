@@ -24,6 +24,8 @@ Here are some of the projects I'm proud of:
 2. [**Shadow Labs**](https://shadow-labs-nine.vercel.app): Developed a landing page for 'Shadow Labs', a developer-focused community that allows developers to interact and work together on various projects and job oppurtunities.
 
 3. [**CodeByVictor**](https://mynewportfolio-dusky.vercel.app): Developed my personal portfolio website from scratch using Next.js, showcasing expertise in front-end development, UI/UX Design, and interactive user experience.
+4. [**JobScout**](https://expo.dev/@victor266/jobng?serviceType=classic&distribution=expo-go): A React-Native mobile application that allows users to search for jobs and apply for them.
+
 
 ## 🌱 Currently Learning
 
