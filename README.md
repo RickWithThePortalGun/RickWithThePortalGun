@@ -40,8 +40,8 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 ## 🎨 Fun Facts
 
-- Pronouns: [Dude]
-- Hobbies: [Gaming, Netflix, Music, Problem Solving]
+- Pronouns: Dude
+- Hobbies: Gaming, Netflix, Music, Problem Solving
 - Favorite coding playlist: [This is The Weekend](https://open.spotify.com/playlist/37i9dQZF1DX6bnzK9KPvrz?si=2b1791b9dbff402a)
 
 Thanks for stopping by! Happy coding! 💻✨
