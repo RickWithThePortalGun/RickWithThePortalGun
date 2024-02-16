@@ -21,7 +21,7 @@ Here are some of the projects I'm proud of:
 
 1. [**Adola AI**](https://adolaai.netlify.app/): A cutting-edge web application that leverages GPT-4, a state-of-the-art natural language processing model, to summarize online articles and documents dynamically.
 
-2. [**Thundr Analytics**](https://adolaai.netlify.app/): Participated in a rigorous frontend challenge hosted by Geegpay, tasked with creating a responsive UI interface from a provided mockup.
+2. [**Thundr Analytics**](https://4reinermars-geegpay-frontend-challenge.vercel.app/): Participated in a rigorous frontend challenge hosted by Geegpay, tasked with creating a responsive UI interface from a provided mockup.
 
 2. [**Shadow Labs**](https://shadow-labs-nine.vercel.app): Developed a landing page for 'Shadow Labs', a developer-focused community that allows developers to interact and work together on various projects and job oppurtunities.
 
