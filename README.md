@@ -2,7 +2,7 @@
 
 I'm Victor, a passionate frontend developer with a love for creating beautiful and user-friendly web applications. Welcome to my GitHub playground! 🚀
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickwiththeportalgun)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 
