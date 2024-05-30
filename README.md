@@ -2,7 +2,7 @@
 
 I'm Victor, a passionate frontend developer with a love for creating beautiful and user-friendly web applications. Welcome to my GitHub playground! 🚀
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickwiththeportalgun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="My Github Stats"/>
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickwiththeportalgun)]
 
 ## 🔧 Technologies & Tools
 
