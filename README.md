@@ -44,7 +44,7 @@ I'm always exploring new technologies and expanding my skill set. Currently, I'm
 - Upwork: [Oyeniyi Victor](https://www.upwork.com/freelancers/~01171c80fa0b139215)
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about frontend development. I'm always open to new opportunities and connections!
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickwiththeportalgun&show_icons=true&theme=dark&show=prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickwiththeportalgun&show_icons=true&theme=dark&show=prs_merged_percentage&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🎨 Fun Facts
